@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 150px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.content-container {
+
+}
+
+.bottom-container {
+    background-color: #e7f2f2;
+    padding: 50px 0 20px;
+  }
