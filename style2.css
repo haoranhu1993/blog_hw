@@ -1,0 +1,50 @@
+body {
+    text-align: left;
+}
+
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 60px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.subscribe {
+    color: gray;
+}
+
+.title {
+    margin-top: 0;
+}
+
+.search-btn {
+    display: flex;
+    background-color: white;
+    height: 1rem;
+    border: 0;
+    padding: 0;
+}
+
+.blog-header {
+    display: block;
+    margin-bottom: 3%;
+}
+
+.content-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-left: 3%;
+    margin-right: 5%;
+}
+
+.about-container {
+    background-color: #e7f2f2;
+    border: 1px rgb(197, 192, 192);
+}
+
+.bottom-container {
+    background-color: #e7f2f2;
+    padding: 50px 0 20px;
+    text-align: center;
+}
